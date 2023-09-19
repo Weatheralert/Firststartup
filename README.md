@@ -1,2 +1,6 @@
 # Firststartup
-нр
+This can be both a website and applications. The work will be aimed at improving the quality and availability of goods in stores. The idea was also taken from personal experience, since I managed to work in a store. It will be the same catalog where you can choose a product that you want to buy today, or some product that IS in stock (you can just check the availability of the product in the store), BUT….
+
+This application will not help customers, but store employees. We have a lot of stores where the acute problem is a lack of staff. And this application will help make their work easier. If previously an employee displayed all the goods, even those that are not in demand, and neglected the popular goods (such as dairy products), now he will be able to look at the application and see that he should immediately put out the bread, since a large number of people will want buy it. And this will also affect the quality of the product. And that's why:
+Since the store orders in bulk, so much product arrives that there is simply nowhere to put it and the employees decide to leave it in the corridor in the hope that they will be able to put it out in the near future and it will not spoil, but if this does not happen, then the product becomes unusable (for example, milk, which will not last long without refrigeration). But if they had this application, then they could see that they should take out all the sour cream and put milk in it, since today there will be a great demand for sour cream.
+
