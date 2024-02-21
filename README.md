@@ -1,1 +1,9 @@
-Поменял описание на свое)
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    cout << "Hello world";
+
+    return 0;
+}
